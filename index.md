@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## ContactQR
 
-You can use the [editor on GitHub](https://github.com/hspil/hspil.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+When I meet new people, I often want to exchange contact info with them. However, it is slow and awkward to trade phones with the person and type in my name and number manually, so I wrote ContactQR, an iOS shortcut that lets me quickly show my contact info encoded as a QR code. When I want to give someone my info, they can simply scan the code.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Instructions
 
-### Markdown
+1. Install the iOS [Shortcuts](https://apps.apple.com/us/app/shortcuts/id915249334) app
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2. Install the shortcuts:
+[Create Contact QR](https://www.icloud.com/shortcuts/343aa0b679994fd1b2a4acf2fd45cb64): To initially set up the QR code.
 
-```markdown
-Syntax highlighted code block
+[Show Contact QR](https://www.icloud.com/shortcuts/f6dfb603dc544e6ba28da3dbe961c040): To quickly display the code. I have this shortcut in a widget on my homescreen for easy access.
 
-# Header 1
-## Header 2
-### Header 3
+3. Troubleshooting
+You may need to enable importing Shortcuts that have not been reviewed by Apple. Go to Settings > Shortcuts, turn on "Allow Untrusted Shortcuts", then try again to install the shortcuts.
 
-- Bulleted
-- List
+Bear in mind that this allows you to install any shortcut, including ones that may be malicious. I promise my shortcut isn't :grin:, but you shouldn't trust me or anyone else: you can preview the source code of a shortcut before you install it by tapping the three dots.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hspil/hspil.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![Image of previewing source code](shortcut_preview.jpg)
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Need help? Have a suggestion or bug report? [Email me.](mailto:44721499+hspil@users.noreply.github.com)
