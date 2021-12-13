@@ -13,7 +13,7 @@ When I meet new people, I often want to exchange contact info with them. However
 3. Troubleshooting
 	* You may need to enable importing Shortcuts that have not been reviewed by Apple. Go to Settings > Shortcuts, turn on "Allow Untrusted Shortcuts", then try again to install the shortcuts.
 
-	* Bear in mind that this allows you to install any shortcut, including ones that may be malicious. I promise my shortcut isn't :grin:, but you shouldn't trust me or anyone else: you can preview the source code of a shortcut before you install it by tapping the three dots.
+	* Bear in mind that this allows you to install any shortcut, including ones that may be malicious. I promise my shortcut isn't :), but you shouldn't trust me or anyone else: you can preview the source code of a shortcut before you install it by tapping the three dots.
 
 ![Image of previewing source code](assets/images/shortcut_preview.jpg)
 
