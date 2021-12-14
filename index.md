@@ -10,10 +10,9 @@ When I meet new people, I often want to exchange contact info with them. However
 	* [Create Contact QR](https://www.icloud.com/shortcuts/343aa0b679994fd1b2a4acf2fd45cb64): To initially set up the QR code.
 	* [Show Contact QR](https://www.icloud.com/shortcuts/f6dfb603dc544e6ba28da3dbe961c040): To quickly display the code. I have this shortcut in a widget on my homescreen for easy access.
 
-3. Troubleshooting
-	* You may need to enable importing Shortcuts that have not been reviewed by Apple. Go to Settings > Shortcuts, turn on "Allow Untrusted Shortcuts", then try again to install the shortcuts.
-
-	* Bear in mind that this allows you to install any shortcut, including ones that may be malicious. I promise my shortcut isn't :), but you shouldn't trust me or anyone else: you can preview the source code of a shortcut before you install it by tapping the three dots.
+### Troubleshooting
+You may need to enable importing Shortcuts that have not been reviewed by Apple. Go to Settings > Shortcuts, turn on "Allow Untrusted Shortcuts", then try again to install the shortcuts.
+Bear in mind that this allows you to install any shortcut, including ones that may be malicious. I promise mine isn't :), but you shouldn't trust me or anyone else: you can preview the source code of a shortcut before you install it by tapping the three dots.
 
 ![Image of previewing source code](assets/images/shortcut_preview.jpg)
 
