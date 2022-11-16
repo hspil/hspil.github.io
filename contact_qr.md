@@ -1,5 +1,6 @@
 ## ContactQR
 
+### *An iOS shortcut for quickly sharing your contact info.*
 When I meet new people, I often want to exchange contact info with them. However, it is slow and awkward to trade phones with the person and type in my name and number manually, so I wrote ContactQR, an iOS shortcut that lets me quickly show my contact info encoded as a QR code. When I want to give someone my info, they can simply scan the code.
 
 ### Instructions
