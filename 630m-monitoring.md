@@ -7,13 +7,15 @@ All these modes are transmitted somewhere in the ~3k above 474.2 kHz. So I've se
 
 ## Antenna and Receiver Setup
 
+I'll write this up later.
+
 ## Software Setup
 [Here](https://www.kylxbn.com/articles/sdrplay-rsp1a-on-linux/) is an excellent guide for getting SDRPlay drivers set up.
 
-I'm using [GQRX](https://www.gqrx.dk/) to decode upper sideband from the SDR. I set up a loopback audio device for the audio output from GQRX. One way to do this is to load a PulseAudio null-sink module. WSJTX will listen from the null-sink monitor input device.
+I'm using [GQRX](https://www.gqrx.dk/) to decode upper sideband from the SDR. I set up a loopback audio device for the audio output from GQRX. One way to do this is to load a PulseAudio null-sink module. WSJTX will be set up to listen from the null-sink monitor input device.
 
-The following monstrosity launches a large number of copies of WSJTX that all can have different default configurations:
-`wsjtx --rig-name=wspr & wsjtx --rig-name=f1 & wsjtx --rig-name=f2 & wsjtx --rig-name=f5 & wsjtx --rig-name=f15 & wsjtx --rig-name=f30 & wsjtx --rig-name=fw2 & wsjtx --rig-name=fw5 & wsjtx --rig-name=fw15 & wsjtx --rig-name=fw30 &`
+The following monstrosity launches a large number of copies of WSJTX that all can have different default configurations:  
+`wsjtx --rig-name=wspr & wsjtx --rig-name=f1 & wsjtx --rig-name=f2 & wsjtx --rig-name=f5 & wsjtx --rig-name=f15 & wsjtx --rig-name=f30 & wsjtx --rig-name=fw2 & wsjtx --rig-name=fw5 & wsjtx --rig-name=fw15 & wsjtx --rig-name=fw30 &`  
 Setting up all of these is a slightly long and repetitive process, but it only needs to be done once.  
 
 For each, set:
