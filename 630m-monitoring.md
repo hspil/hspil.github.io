@@ -13,7 +13,7 @@ The following graciously given to me by my elmer Laurence, KL7L:
 * Bias tee power injector
 * Active E-field probe antenna
 
-The most difficult problem is keeping rf noise from the computer, receiver, and associated $&!#^%&^ switch mode power supplies from travelling up the shild of the coäx to the antenna. I found that it was vital to provide the shield of the coäx a good rf connection to ground. There was an existing RG-6 passthrough in the wall of my room that was formerly used for satellite TV which I am reusing. Outside I have a female to female F connector block with a grounding lug that is connected to a water spigot. The E-field probe is mounted about 10' up on a piece of PVC pipe.
+The most difficult problem is keeping rf noise from the computer, receiver, and associated $&!#^%&^ switch mode power supplies from travelling up the shield of the coäx to the antenna. I found that it was vital to provide the shield of the coäx a good rf connection to ground. There was an existing RG-6 passthrough in the wall of my room that was formerly used for satellite TV which I am reusing. Outside I have a female to female F connector block with a grounding lug that is connected to a water spigot. The E-field probe is mounted about 10' up on a piece of PVC pipe.
 
 
 ## Software Setup
