@@ -1,3 +1,9 @@
+---
+layout: post
+title: Contact QR iOS Shortcut
+---
+
+
 ## ContactQR
 
 ### *An iOS shortcut for quickly sharing your contact info.*
@@ -25,5 +31,3 @@ Bear in mind that this allows you to install any shortcut, including ones that m
 
 ### Support or Contact
 Need help? Have a suggestion or bug report? [Email me.](mailto:44721499+hspil@users.noreply.github.com)
-
-<script data-goatcounter="https://hspil.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>

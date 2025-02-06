@@ -1,3 +1,8 @@
+---
+layout: post
+title: Simple PVC Inverted V Dipole
+---
+
 # Yardstick loop antenna
 
 ## Intro
