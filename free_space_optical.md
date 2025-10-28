@@ -11,5 +11,6 @@ A place to keep notes about optical ham radio. Most stuff on this page is about 
 * [WF0T](wf0t.blogspot.com)
 * [G3XBM](g3xbm-qrp.blogspot.com/search?q=optical)
 * G8AGN
+* [VE7SL](https://ve7sl.blogspot.com) and [VE7CNF](https://phasordesign.com/VE7CNFamateurRadio/Lightwave/VE7CNF_Lightwave_Operations.html)
 
 See also: [https://groups.io/g/Amateur-30THz]() for information about 30 THz long wave infrared
