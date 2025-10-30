@@ -13,6 +13,8 @@ A place to keep notes about optical ham radio. Most stuff on this page is about 
 * G8AGN
 * [VE7SL](https://ve7sl.blogspot.com) and [VE7CNF](https://phasordesign.com/VE7CNFamateurRadio/Lightwave/VE7CNF_Lightwave_Operations.html)
 * [SM7PNV](https://www.zachtek.com/post/wspr-transmitter-for-400terrahertz)
+* [VK7MO](https://www.youtube.com/watch?v=_XuU8UuaN5o)
+* [REAST](https://www.reast.asn.au/information/optical-transmissions/)
 
 French optical facebook group: [https://facebook.com/groups/laserbzh/]()
 
