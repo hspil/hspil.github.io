@@ -4,7 +4,7 @@ A place to keep notes about optical ham radio. Most stuff on this page is about 
 ## A list of amateurs with published information on various optical communication systems:
 
 * [W1VLF](https://youtube.com/@W1VLF) 
-* [KA7OEI](https://modulatedlight.org)
+* KA7OEI [modulatedlight.org](https://modulatedlight.org) and [youtube](https://m.youtube.com/@modulatedlight)
 * K3PGP
 	* Receive preamps: [Part 1](https://k3pgp.org/frontend1.htm) [Part 2](https://k3pgp.org/frontend2.htm)
 	* [Laser modulators](https://k3pgp.org/laserpen.htm)
