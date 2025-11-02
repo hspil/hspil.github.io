@@ -1,4 +1,8 @@
-# Free Space Optical Resources
+---
+layout: default
+title: Free Space Optical Resources
+---
+
 A place to keep notes about optical ham radio. Most stuff on this page is about near-infrared and visible light (approx 1000 – 500 nm) 
 
 ## A list of amateurs with published information on various optical communication systems:
