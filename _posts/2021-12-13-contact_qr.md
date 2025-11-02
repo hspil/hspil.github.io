@@ -3,9 +3,6 @@ layout: post
 title: Contact QR iOS Shortcut
 ---
 
-
-## ContactQR
-
 ### *An iOS shortcut for quickly sharing your contact info.*
 When I meet new people, I often want to exchange contact info with them. However, it is slow and awkward to trade phones with the person and type in my name and number manually, so I wrote ContactQR, an iOS shortcut that lets me quickly show my contact info encoded as a QR code. When I want to give someone my info, they can simply scan the code.
 
@@ -27,7 +24,7 @@ You may need to enable importing Shortcuts that have not been reviewed by Apple.
 
 Bear in mind that this allows you to install any shortcut, including ones that may be malicious. I promise mine isn't, but you shouldn't trust me or anyone else: you can preview the source code of a shortcut before you install it by tapping the three dots.
 
-![Image of previewing source code](assets/images/shortcut_preview.jpg)
+![Image of previewing source code]({{ 'assets/images/shortcut_preview.jpg' | relative_url}})
 
 ### Support or Contact
 Need help? Have a suggestion or bug report? [Email me.](mailto:44721499+hspil@users.noreply.github.com)

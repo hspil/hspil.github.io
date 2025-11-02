@@ -15,6 +15,7 @@ A place to keep notes about optical ham radio. Most stuff on this page is about 
 * [SM7PNV](https://www.zachtek.com/post/wspr-transmitter-for-400terrahertz)
 * [VK7MO](https://www.youtube.com/watch?v=_XuU8UuaN5o)
 * [REAST](https://www.reast.asn.au/information/optical-transmissions/)
+* [VK5ZT](https://www.youtube.com/watch?v=QXNv5sy3eg0)
 
 French optical facebook group: [https://facebook.com/groups/laserbzh/]()
 
