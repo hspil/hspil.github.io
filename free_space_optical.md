@@ -17,6 +17,6 @@ A place to keep notes about optical ham radio. Most stuff on this page is about 
 * [REAST](https://www.reast.asn.au/information/optical-transmissions/)
 * [VK5ZT](https://www.youtube.com/watch?v=QXNv5sy3eg0)
 
-French optical facebook group: [https://facebook.com/groups/laserbzh/]()
+[French optical facebook group](https://facebook.com/groups/laserbzh/)
 
-See also: [https://groups.io/g/Amateur-30THz]() for information about 30 THz long wave infrared
+See also: [Amateur-30THz Groups.io](https://groups.io/g/Amateur-30THz) for information about 30 THz long wave infrared
