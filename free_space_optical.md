@@ -20,6 +20,7 @@ A place to keep notes about optical ham radio. Most stuff on this page is about 
 * [VK7MO](https://www.youtube.com/watch?v=_XuU8UuaN5o)
 * [REAST](https://www.reast.asn.au/information/optical-transmissions/)
 * [VK5ZT](https://www.youtube.com/watch?v=QXNv5sy3eg0)
+* [M0DTS](https://m0dts.co.uk/about)
 
 [French optical facebook group](https://facebook.com/groups/laserbzh/)
 
