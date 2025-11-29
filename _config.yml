@@ -1,3 +1,8 @@
 remote_theme: daattali/beautiful-jekyll
 title: hspil
 description: An assortment for your enjoyment
+
+navbar-links:
+  About: "about"
+  Posts: "/"
+  Optical ham radio: "free_space_optical"
