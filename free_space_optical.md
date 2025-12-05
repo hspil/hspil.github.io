@@ -16,7 +16,7 @@ A place to keep notes about optical ham radio. Most stuff on this page is about 
 * [VE7SL](https://ve7sl.blogspot.com) and [VE7CNF](https://phasordesign.com/VE7CNFamateurRadio/Lightwave/VE7CNF_Lightwave_Operations.html)
 * [SM7PNV](https://www.zachtek.com/post/wspr-transmitter-for-400terrahertz)
 * [VK7MO](https://www.youtube.com/watch?v=_XuU8UuaN5o) and [VK7ZBX](https://www.youtube.com/watch?v=qfb-9_67Oro)
-	* [VK7MO and VK7EKA](ircomms.yorkcreek.net/)
+	* [VK7MO and VK7EKA](https://ircomms.yorkcreek.net/)
 * [REAST](https://www.reast.asn.au/information/optical-transmissions/) see especially pdf scans of 4 part series by VK7MO, et al. published in DUBUS
 * [VK5ZT](https://www.youtube.com/watch?v=QXNv5sy3eg0)
 * [M0DTS](https://m0dts.co.uk/about)
