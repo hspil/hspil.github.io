@@ -12,10 +12,11 @@ A place to keep notes about optical ham radio. Most stuff on this page is about 
 	* [Laser modulators](https://k3pgp.org/laserpen.htm)
 * [WF0T](https://wf0t.blogspot.com)
 * [G3XBM](https://g3xbm-qrp.blogspot.com/search?q=optical)
-* G8AGN
+* [G8AGN](https://m.youtube.com/watch?v=lydOX3uUZug)
 * [VE7SL](https://ve7sl.blogspot.com) and [VE7CNF](https://phasordesign.com/VE7CNFamateurRadio/Lightwave/VE7CNF_Lightwave_Operations.html)
 * [SM7PNV](https://www.zachtek.com/post/wspr-transmitter-for-400terrahertz)
 * [VK7MO](https://www.youtube.com/watch?v=_XuU8UuaN5o) and [VK7ZBX](https://www.youtube.com/watch?v=qfb-9_67Oro)
+	* [NLOS Presentation](https://www.youtube.com/watch?v=0vscLJqrP7Y&t=1890s)
 	* [VK7MO and VK7EKA](https://ircomms.yorkcreek.net/)
 * [REAST](https://www.reast.asn.au/information/optical-transmissions/) see especially pdf scans of 4 part series by VK7MO, et al. published in DUBUS
 * [VK5ZT](https://www.youtube.com/watch?v=QXNv5sy3eg0)
