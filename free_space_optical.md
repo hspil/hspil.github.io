@@ -23,6 +23,7 @@ A place to keep notes about optical ham radio. Most stuff on this page is about 
 * [M0DTS](https://m0dts.co.uk/about)
 * [US Naval Air Warfare Center EW handbook](https://web.archive.org/web/20011120052426/http://ewhdbks.mugu.navy.mil/EO-IR.htm)
 * [MODTRAN](http://modtran.spectral.com/modtran_home) infrared atmospheric transmittance simulator
+* [G0MRF](https://www.g0mrf.com/laser.htm)
 
 [French optical facebook group](https://facebook.com/groups/laserbzh/)
 
